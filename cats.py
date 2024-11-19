@@ -33,5 +33,3 @@ class Cat: # cat entity
 
     def view_stats(self):
         print(f"{self.name} is {self.age} years old. \n Colour: {self.colour} \n Intelligence: {self.intelligence} \n Energy: {self.energy} \n Weight: {self.weight} ")
-
-    
